@@ -3,7 +3,7 @@ xCode templates for cocos2d
 
 Templates:
 
-* Crossplatform CCLayer subclass (mac & ios)
+* Cross platform CCLayer subclass (mac & ios)
 
 How to install (for xcode 4+):
 
